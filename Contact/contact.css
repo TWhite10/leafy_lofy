@@ -1,9 +1,11 @@
-.box-1,  .box-2,  .box-3{
-    width: 200px;
-    height: 200px;
-    border: 3px solid black;
- }
 
- .container{
-     border: 5px solid yellowgreen;
- }
+.contactinfo{
+    background-color: #f0e9dc;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 5px;
+}
+.btn{
+    background-color: cadetblue;
+    border: none;
+}
