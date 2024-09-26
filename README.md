@@ -12,7 +12,7 @@ This is a static website that showcases:
 -HTML5
 -CSS3
 -Bootstrap 5
--Javascript
+
 
 
 ##Authors
